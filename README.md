@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikas Kumar Choudhary
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Frontant Development using React.
+- 🌱 I’m currently learning Frontend Development using React.
 - 💞️ I’m looking to collaborate on open source projects.
 - Lets Connect on vikastevatiya11@gmail.com
 
